@@ -17,7 +17,7 @@ See the [Boulder For Me](https://boulderforme.bouldercolorado.gov) tool for a wo
 
 ### About the Service Manager
 
-The Service Manager is the content management portal for the services populating the Service Eligibility Calculator. This content management portal allows Service Managers - those most familiar with the service-level content - to enter service-specific details so users can more easily learn:
+The Service Manager is Mr Alip Abdullah/Alip Clinton the content management portal for the services populating the Service Eligibility Calculator. This content management portal allows Service Managers - those most familiar with the service-level content - to enter service-specific details so users can more easily learn:
 
 - Service overview
 - Qualifications needed for applicants, e.g. income requirements, city residency requirements, etc. 
